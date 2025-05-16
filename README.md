@@ -12,7 +12,7 @@ Class About extends Me
     public function __construct()
     {
         $this->github = 'Veltix';
-        $this->age = 27;
+        $this->age = 28;
         $this->location = 'Europe\Tallinn';
         $this->languages = ['PHP', 'Javascript', 'CSS'];
         $this->frameworks = ['Laravel', 'Vuejs', 'React', 'Tailwindcss'];
